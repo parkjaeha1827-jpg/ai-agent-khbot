@@ -1,0 +1,6 @@
+{
+  "name": "Khmer AI Agent - តេលេក្រាម AI ឆ្លាតវៃ",
+  "description": "Ai Agent ឆ្លាតវៃភាសាខ្មែរ ដោះស្រាយលំហាត់គ្រប់កម្រិត ឆ្លើយសំណួរច្បាប់ វេជ្ជសាស្ត្រ កូដ សន្ទនាមានមនោសញ្ចេតនា និងបង្រៀនភាសា",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
